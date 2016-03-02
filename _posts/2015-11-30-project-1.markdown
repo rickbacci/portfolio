@@ -1,0 +1,15 @@
+---
+title: IdeaBox
+subtitle: Basic CRUD app that uses a Rails backend and javascript and jQuery to update the database, and your ideas without refreshing the page.
+layout: default
+modal-id: 1
+date: 2015-11-30
+img: ideabox.png
+thumbnail: ideabox-thumbnail.png
+alt: image-alt
+project-date: November 2015
+client: Rails, Javascript, jQuery
+category: Web Development
+description: Basic CRUD app that uses a Rails backend and javascript and jQuery to update the database, and your ideas without refreshing the page.
+
+---

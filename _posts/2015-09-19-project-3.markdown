@@ -1,0 +1,15 @@
+---
+title: Ontarget
+subtitle: A Personal timeboxing project similar to Waffle.io, where a timer is started when a ticket is in progress.
+layout: default
+modal-id: 3
+date: 2015-09-19
+img: ontarget.png
+thumbnail: ontarget-thumbnail.png
+alt: image-alt
+project-date: September 2015
+client: Rails, Github API, jQueryUI
+category: Website Development, API
+description: A Personal timeboxing project similar to Waffle.io, where a timer is started when a ticket is in progress.
+
+---
