@@ -10,6 +10,8 @@ alt: image-alt
 project-date: October 2015
 client: Javascript
 category: Game Development
+demo-url: http://rickbacci.github.io/tron/
+github-url: https://github.com/RickBacci/tron
 description: Two person project where we had to create a game using javascript.
 
 ---

@@ -10,6 +10,8 @@ alt: image-alt
 project-date: November 2015
 client: Rails, Javascript, jQuery
 category: Web Development
+demo-url: https://ideabox3-175.herokuapp.com/
+github-url: https://github.com/RickBacci/ideabox3
 description: Basic CRUD app that uses a Rails backend and javascript and jQuery to update the database, and your ideas without refreshing the page.
 
 ---
