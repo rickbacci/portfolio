@@ -2,7 +2,7 @@
 title: Tron
 subtitle: 2-player game built using javascript
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2015-10-19
 img: tron.png
 thumbnail: tron-thumbnail.png
