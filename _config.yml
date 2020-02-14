@@ -27,7 +27,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Cleveland, OH 44125
+  - line: Denver, CO 80202
 
 # Build settings
 markdown: kramdown
